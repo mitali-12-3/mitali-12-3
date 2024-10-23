@@ -1,6 +1,7 @@
+![logo](https://github.com/mitali-12-3/mitali-12-3/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Mitali Pandey</h1>
 <h3 align="center">A Computer Science undergrad from India</h3>
-<img align="right alt="coding" width="300" src="https://github.com/mitali-12-3/mitali-12-3/blob/main/coding-girl.gif">
+<img align="right" alt="coding" width="300" src="https://github.com/mitali-12-3/mitali-12-3/blob/main/coding-girl.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mitali-12-3&label=Profile%20views&color=0e75b6&style=flat" alt="mitali-12-3" /> </p>
 
 - 🌱 I’m currently learning **more about Machine Learning & Data**
