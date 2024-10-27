@@ -1,4 +1,4 @@
-![logo](https://github.com/mitali-12-3/mitali-12-3/blob/main/banner.jpg)
+![logo](https://github.com/mitali-12-3/mitali-12-3/blob/main/githubBanner.jpg)
 <h1 align="center">Hi 👋, I'm Mitali Pandey</h1>
 <h3 align="center">A Computer Science undergrad from India</h3>
 <img align="right" alt="coding" width="300" src="https://github.com/mitali-12-3/mitali-12-3/blob/main/coding-girl.gif">
